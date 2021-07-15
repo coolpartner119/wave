@@ -1,0 +1,15 @@
+/node_modules
+/public/hot
+/public/storage
+/public/.well-known
+/storage/*.key
+/vendor
+/.idea
+/.vagrant
+/wave-pro
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.DS_Store
+.phpunit.result.cache
